@@ -1,1 +1,14 @@
 # miguel321654987-Herramientas-de-Vibe-Coding
+
+## Comparativa de Herramientas
+
+| Herramienta      | UI/UX | Costo | Velocidad | Dependencia de Plataforma | Control | Mantenibilidad | Calidad del Código | Reutilización | Tu Calificación para Tus Necesidades (1-5) | Notas/Justificación |
+|------------------|:-----:|:-----:|:---------:|:-------------------------:|:-------:|:--------------:|:------------------:|:-------------:|:------------------------------------------:|:-------------------:|
+| Vercel           | 5     | 3     | 5         | 2                         | 2       | 1             | 5                  | 1             | 4                                           |La mejor aliada visual. La usas solo para generar componentes React hermosos y luego te los llevas a Cursor.                     |
+| Replit           | 4     | 1     | 4         | 1                         | 1       | 3              | 5                  | 1             |   2                                         |      Su entorno en la nube te aleja de la realidad del despliegue local y profesional que aprendiste.               |
+| Lovable          | 5     | 3     | 4         | ?                         | 3       | 3              | 4                  | 1             | 3                                           |      Hace demasiadas cosas por ti. No te ayudará a reforzar tus habilidades ni a entender qué pasa detrás.               |
+| Windsurf         | 3     | 5     | 3         | 5                         | 5       | 5              | 5                  | 5             |  5                                         |Excelente. Sus agentes autónomos son brutales para resolver bugs de conexión entre frontend y backend.                     |
+| Cursor           | 2     | 4     | 3         | 5                         | 4       | 5              | 4                  | 5             |   5                                   |La mejor para aprender. Te obliga a tocar el código, organizar tus carpetas de React/Python y usar Git.                 |
+|  GitHub Copilot  | 3     | 3     |     4     |          4                |  5      |      5         |      5             |  5            |            4                               |Te obliga a usar el flujo de trabajo real de las empresas: Issue ➡️ Branch ➡️ Code ➡️ Pull Request. Para resolver bugs específicos o añadir lógicas de backend                     |
+| Tu Herramienta B |       |       |           |                           |         |                |                    |               |                                            |                     |
+| Tu Herramienta C |       |       |           |                           |         |                |                    |               |                                            |                     |
